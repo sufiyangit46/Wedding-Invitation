@@ -1,0 +1,4 @@
+# TO CHECK WEBSITE ON LOCALHOST
+npm install -g live-server THEN live-server
+
+
